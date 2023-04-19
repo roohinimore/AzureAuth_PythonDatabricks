@@ -1,5 +1,4 @@
 ---
-author: Rohini More (rohini.more@capgemini.com)
 languages: Python
 products: azure-active-directory
 description: "This sample demonstrates a Python web application calling a Azure Databricks APIs that is secured using Azure Active Directory."
